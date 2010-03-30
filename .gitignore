@@ -1,0 +1,10 @@
+log/*
+tmp/*
+tmp/**/*
+doc/api
+doc/app
+db/*.sqlite3
+*.tmp*
+doc/*
+nbproject/*
+config/*.yml
